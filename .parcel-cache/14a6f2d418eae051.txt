@@ -1,4 +1,4 @@
-7675
+7676
 81D:\dev\forkify\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133153006526984980 0
 59D:\dev\forkify\node_modules\caniuse-lite\data\regions\CR.js133153006530146209 0
 77D:\dev\forkify\node_modules\core-js\features\reflect\get-own-metadata-keys.js133153529744572487 0
@@ -19,7 +19,7 @@
 66D:\dev\forkify\node_modules\msgpackr\dist\index-no-eval.min.js.map133153006528188224 0
 66D:\dev\forkify\node_modules\core-js\full\string\virtual\italics.js133153529746805915 0
 58D:\dev\forkify\node_modules\core-js\features\math\log10.js133153529747439098 0
-19D:\dev\forkify\dist133156689378898101 1
+19D:\dev\forkify\dist133157455412132079 1
 68D:\dev\forkify\node_modules\core-js\modules\es.regexp.constructor.js133153529741103056 0
 84D:\dev\forkify\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js133153006528248200 0
 58D:\dev\forkify\node_modules\core-js\stable\number\index.js133153529746133970 0
@@ -89,7 +89,7 @@
 46D:\dev\forkify\node_modules\path-type\index.js133153006525370933 0
 41D:\dev\forkify\node_modules\svgo\lib\svgo133153470387923734 1
 58D:\dev\forkify\node_modules\sass\types\value\function.d.ts133153007485279424 0
-30D:\dev\forkify\src\js\model.js133156689378616356 0
+30D:\dev\forkify\src\js\model.js133156691834823947 0
 64D:\dev\forkify\node_modules\core-js\stable\array\virtual\join.js133153529747119117 0
 73D:\dev\forkify\node_modules\caniuse-lite\data\features\abortcontroller.js133153006525591041 0
 55D:\dev\forkify\node_modules\css-tree\lib\common\List.js133153006529601507 0
@@ -199,14 +199,20 @@
 61D:\dev\forkify\node_modules\svgo\plugins\removeHiddenElems.js133153006529019154 0
 36D:\dev\forkify\src\sass\_upload.scss132536794242204298 0
 42D:\dev\forkify\node_modules\yaml\scalar.js133153006528273373 0
-35D:\dev\forkify\src\js\controller.js133156686563138418 0
+35D:\dev\forkify\src\js\controller.js133157452552799346 0
 45D:\dev\forkify\node_modules\mdn-data\index.js133153006525761282 0
 80D:\dev\forkify\node_modules\core-js\internals\object-get-own-property-symbols.js133153529748146665 0
 51D:\dev\forkify\node_modules\node-gyp-build\index.js133153006525651024 0
 42D:\dev\forkify\node_modules\normalize-path133153470384582594 1
-27D:\dev\forkify\src\js\views133156612921702857 1
+27D:\dev\forkify\src\js\views133156902504619266 1
 35D:\dev\forkify\node_modules\is-glob133153470381149217 1
 68D:\dev\forkify\node_modules\core-js\full\reflect\has-own-metadata.js133153529745083286 0
+32D:\dev\forkify\node_modules\.bin133153470347932352 1
+62D:\dev\forkify\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133153006526909825 0
+60D:\dev\forkify\node_modules\svgo\plugins\sortDefsChildren.js133153006529415872 0
+60D:\dev\forkify\node_modules\core-js\features\bigint\range.js133153529748855724 0
+54D:\dev\forkify\node_modules\htmlnano\docs\netlify.toml133153006529506355 0
+45D:\dev\forkify\src\js\views\paginationView.js133157455411906925 0
 64D:\dev\forkify\node_modules\@parcel\bundler-default\package.json133153006526133530 0
 56D:\dev\forkify\node_modules\yaml\dist\Schema-88e323a7.js133153006528323400 0
 33D:\dev\forkify\node_modules\clone133153470374440381 1
@@ -238,10 +244,6 @@
 64D:\dev\forkify\node_modules\core-js\modules\esnext.map.key-by.js133153529742075606 0
 35D:\dev\forkify\src\js\views\View.js133156677836670930 0
 61D:\dev\forkify\node_modules\htmlnano\docs\docs\040-presets.md133153006529249483 0
-32D:\dev\forkify\node_modules\.bin133153470347932352 1
-62D:\dev\forkify\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133153006526909825 0
-60D:\dev\forkify\node_modules\svgo\plugins\sortDefsChildren.js133153006529415872 0
-60D:\dev\forkify\node_modules\core-js\features\bigint\range.js133153529748855724 0
 34D:\dev\forkify\node_modules\@babel133153470348152652 1
 55D:\dev\forkify\node_modules\core-js\es\object\values.js133153529752563561 0
 35D:\dev\forkify\node_modules\@parcel133153470362605927 1
@@ -489,7 +491,7 @@
 52D:\dev\forkify\node_modules\core-js\es\array\fill.js133153529742869780 0
 61D:\dev\forkify\node_modules\core-js\stable\string\trim-end.js133153529751786269 0
 52D:\dev\forkify\node_modules\terser\lib\propmangle.js133153006529019154 0
-37D:\dev\forkify\dist\logo.726d37a8.png133155703898885355 0
+37D:\dev\forkify\dist\logo.726d37a8.png133156936102094777 0
 62D:\dev\forkify\node_modules\css-tree\lib\common\TokenStream.js133153006530161289 0
 51D:\dev\forkify\node_modules\svgo\plugins\plugins.js133153006528538109 0
 37D:\dev\forkify\node_modules\immutable133153470380792591 1
@@ -550,7 +552,7 @@
 70D:\dev\forkify\node_modules\core-js\stable\string\virtual\trim-left.js133153529751848094 0
 57D:\dev\forkify\node_modules\core-js\full\function\virtual133153529752255402 1
 57D:\dev\forkify\node_modules\weak-lru-cache\dist\index.cjs133153006524922045 0
-30D:\dev\forkify\dist\index.html133156664868729413 0
+30D:\dev\forkify\dist\index.html133156936102353142 0
 79D:\dev\forkify\node_modules\caniuse-lite\data\features\css-container-queries.js133153006530371727 0
 88D:\dev\forkify\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133153006529344671 0
 45D:\dev\forkify\node_modules\lines-and-columns133153470381855652 1
@@ -1501,8 +1503,6 @@
 58D:\dev\forkify\node_modules\core-js\stable\object\proto.js133153529748735057 0
 70D:\dev\forkify\node_modules\terser\node_modules\commander\CHANGELOG.md133153006525761282 0
 62D:\dev\forkify\node_modules\core-js\full\async-iterator\map.js133153529747659826 0
-61D:\dev\forkify\node_modules\electron-to-chromium\package.json133153006526974981 0
-79D:\dev\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133153006528820257 0
 58D:\dev\forkify\node_modules\core-js\stable\symbol\split.js133153529750325957 0
 65D:\dev\forkify\node_modules\terser\node_modules\commander\typings133153470389148970 1
 55D:\dev\forkify\node_modules\dom-serializer\lib\index.js133153006526143524 0
@@ -1636,7 +1636,7 @@
 63D:\dev\forkify\node_modules\css-tree\lib\syntax\node\AnPlusB.js133153006525771369 0
 56D:\dev\forkify\node_modules\core-js\es\symbol\replace.js133153529749335589 0
 42D:\dev\forkify\node_modules\svgo\README.md133153006529686675 0
-42D:\dev\forkify\dist\index.f7626f62.css.map133156664868709422 0
+42D:\dev\forkify\dist\index.f7626f62.css.map133156936102124803 0
 57D:\dev\forkify\node_modules\core-js\stable\number\virtual133153529751284358 1
 61D:\dev\forkify\node_modules\csso\lib\replace\property\font.js133153006528264174 0
 50D:\dev\forkify\node_modules\msgpackr\dist\index.js133153006526835826 0
@@ -2229,8 +2229,8 @@
 65D:\dev\forkify\node_modules\core-js\stable\object\from-entries.js133153529744245605 0
 67D:\dev\forkify\node_modules\core-js\features\symbol\has-instance.js133153529745048232 0
 64D:\dev\forkify\node_modules\dom-serializer\lib\foreignNames.d.ts133153006527150185 0
-55D:\dev\forkify\node_modules\core-js\stable\math\cosh.js133153529739516928 0
 52D:\dev\forkify\node_modules\nth-check\lib\parse.d.ts133153006527978323 0
+55D:\dev\forkify\node_modules\core-js\stable\math\cosh.js133153529739516928 0
 49D:\dev\forkify\node_modules\domutils\lib\feeds.js133153006525149436 0
 60D:\dev\forkify\node_modules\@parcel\transformer-sass\LICENSE133153007491573043 0
 77D:\dev\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133153006530106202 0
@@ -2560,7 +2560,7 @@
 87D:\dev\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133153006527656002 0
 60D:\dev\forkify\node_modules\core-js\features\get-iterator.js133153529744532466 0
 87D:\dev\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133153006527782828 0
-38D:\dev\forkify\dist\index.f7626f62.css133156664868679421 0
+38D:\dev\forkify\dist\index.f7626f62.css133156936102094777 0
 76D:\dev\forkify\node_modules\caniuse-lite\data\features\css-cascade-layers.js133153006530326598 0
 55D:\dev\forkify\node_modules\core-js\stable\math\imul.js133153529745204077 0
 87D:\dev\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133153006527988309 0
@@ -2583,6 +2583,8 @@
 79D:\dev\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133153006528518117 0
 76D:\dev\forkify\node_modules\core-js\internals\array-buffer-non-extensible.js133153529737868895 0
 79D:\dev\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133153006528038294 0
+61D:\dev\forkify\node_modules\electron-to-chromium\package.json133153006526974981 0
+79D:\dev\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133153006528820257 0
 75D:\dev\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133153006529274597 0
 46D:\dev\forkify\node_modules\core-js\stable\map133153529746123975 1
 53D:\dev\forkify\node_modules\@parcel\optimizer-css\src133153470355925389 1
@@ -2851,7 +2853,6 @@
 67D:\dev\forkify\node_modules\htmlnano\lib\modules\removeUnusedCss.js133153006528083479 0
 75D:\dev\forkify\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133153006528248200 0
 57D:\dev\forkify\node_modules\htmlnano\docs\babel.config.js133153006525591041 0
-54D:\dev\forkify\node_modules\htmlnano\docs\netlify.toml133153006529506355 0
 59D:\dev\forkify\node_modules\htmlnano\docs\package-lock.json133153006528775103 0
 59D:\dev\forkify\node_modules\core-js\modules\es.math.cbrt.js133153529740652471 0
 56D:\dev\forkify\node_modules\core-js\actual\string\sup.js133153529750820278 0
@@ -2909,7 +2910,7 @@
 64D:\dev\forkify\node_modules\css-tree\lib\lexer\prepare-tokens.js133153006529952204 0
 60D:\dev\forkify\node_modules\core-js\full\array\virtual\at.js133153529738437382 0
 47D:\dev\forkify\node_modules\glob-parent\LICENSE133153007484328668 0
-40D:\dev\forkify\dist\favicon.8b2f57bf.png133156664868709422 0
+40D:\dev\forkify\dist\favicon.8b2f57bf.png133156936101969523 0
 80D:\dev\forkify\node_modules\@babel\highlight\node_modules\color-convert\route.js133153006526375151 0
 52D:\dev\forkify\node_modules\glob-parent\package.json133153007484469446 0
 48D:\dev\forkify\node_modules\chalk\source\util.js133153006525746221 0
@@ -6953,7 +6954,7 @@
 72D:\dev\forkify\node_modules\@swc\helpers\lib\_interop_require_default.js133153006528925437 0
 73D:\dev\forkify\node_modules\@swc\helpers\lib\_interop_require_wildcard.js133153006528955431 0
 67D:\dev\forkify\node_modules\@swc\helpers\lib\_is_native_function.js133153006528989162 0
-38D:\dev\forkify\dist\icons.21bad73c.svg133156664868729413 0
+38D:\dev\forkify\dist\icons.21bad73c.svg133156936102134773 0
 78D:\dev\forkify\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133153006527605988 0
 72D:\dev\forkify\node_modules\@swc\helpers\lib\_iterable_to_array_limit.js133153006529074323 0
 64D:\dev\forkify\node_modules\@swc\helpers\lib\_new_arrow_check.js133153006529154287 0
@@ -7669,8 +7670,8 @@
 43D:\dev\forkify\node_modules\.bin\semver.cmd133153006535608785 0
 41D:\dev\forkify\node_modules\.bin\svgo.ps1133153006535618801 0
 43D:\dev\forkify\node_modules\.bin\terser.ps1133153006535618801 0
-38D:\dev\forkify\dist\icons.dfd7a6db.svg133156664868729413 0
+38D:\dev\forkify\dist\icons.dfd7a6db.svg133156936102074776 0
 37D:\dev\forkify\dist\index.62406edb.js133153007500798076 0
 41D:\dev\forkify\dist\index.62406edb.js.map133153007500808114 0
-37D:\dev\forkify\dist\index.e37f48ea.js133156689378878084 0
-41D:\dev\forkify\dist\index.e37f48ea.js.map133156689378898101 0
+37D:\dev\forkify\dist\index.e37f48ea.js133157455412112036 0
+41D:\dev\forkify\dist\index.e37f48ea.js.map133157455412132079 0
