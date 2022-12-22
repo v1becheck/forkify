@@ -129,9 +129,9 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
-const showGreetingMessage () {
+const showGreetingMessage = function () {
   console.log('Welcome to the application!');
-}
+};
 
 const init = function () {
   bookmarksView.addhandlerRender(controlBookmarks);
