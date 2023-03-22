@@ -2,6 +2,8 @@
 
 Recipe application with custom recipe uploads.
 
+Using third-party APIs with AJAX calls, NPM, Parcel, Babel, and ES6 modules.
+
 https://forkify-milos89.netlify.app/
 
 Usage:
